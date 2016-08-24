@@ -20,3 +20,6 @@ def graph():
 
     plt.plot()
     plt.show()
+
+
+graph()
